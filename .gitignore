@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+build/
+videos/*/build/
+videos/*/vo_proc/
